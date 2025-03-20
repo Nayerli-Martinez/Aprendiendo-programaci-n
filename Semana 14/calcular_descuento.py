@@ -28,3 +28,5 @@ print(f"\nResultado de la Segunda Compra:")
 print(f"Porcentaje de descuento: {porcentaje_descuento_2}%")
 print(f"Descuento aplicado: ${descuento_2:.2f}")
 print(f"Monto final a pagar: ${monto_final_2:.2f}")
+
+
